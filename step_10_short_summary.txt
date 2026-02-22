@@ -1,0 +1,27 @@
+
+STEP 10: SHORT SUMMARY
+
+1.TECHNIQUES USED:
+
+
+- Missing value handling using median imputation and logical defaults
+- Outlier detection and treatment using IQR and clipping
+- Feature engineering (total_purchase_value, purchase_per_day, date-based features)
+- Log and power transformations (log1p, Yeo-Johnson)
+- Feature scaling using RobustScaler
+- Binning and binary feature creation
+
+2.BIGGEST ISSUES WITH RAW DATA:
+
+
+- Extreme outliers in price and annual_income columns
+- Highly skewed numerical distributions
+- Mixed data types (IDs containing letters)
+- Date columns not converted to datetime
+- Zero values causing issues in log transformations
+
+3.BEST IMPUTATION & SCALING:
+
+
+- Median imputation worked best due to skewed distributions
+- RobustScaler performed best because it is resistant to outliers
