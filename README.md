@@ -108,6 +108,9 @@ Standardized column formats
 
 Converted date columns to datetime
 
+-----------------
+
+
 ## 2️⃣ Missing Value Handling
 
 Numerical → Median Imputation
@@ -117,6 +120,9 @@ Categorical → Mode Imputation
 Added missing-value indicator columns
 
 ✔ Median imputation worked best due to skewed numerical data.
+
+-----------------
+
 
 ## 3️⃣ Outlier Treatment
 
@@ -142,11 +148,17 @@ signup_year, signup_month
 
 These features improve data interpretability and predictive power.
 
+-----------------
+
+
 ## 5️⃣ Encoding
 
 Ordinal Encoding for ordered categorical features
 
 One-Hot Encoding for nominal categorical features
+
+-----------------
+
 
 ## 6️⃣ Scaling & Transformation
 
@@ -188,14 +200,18 @@ Log transformation for skewed numerical features
 
 -----------------
 
-🛠️ Tech Stack
-Category	Tools
-Language	Python 3.11+
-Data Handling	Pandas, NumPy
-Visualization	Matplotlib, Seaborn
-ML Prep	Scikit-learn
-Profiling	ydata-profiling
-Database	MySQL
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|--------|------|
+| Language | Python 3.11+ |
+| Data Handling | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| ML Preprocessing | Scikit-learn |
+| Statistics | SciPy |
+
+
+-----------------
 
 
 ## 📥 Download Complete Project
@@ -214,6 +230,7 @@ https://github.com/tushar123851/customer-purchase-propensity-set-A
 ## 👤 Author
 
 Tushar Vala
+
 📊 Data Science Enthusiast
 🐍 Python | Pandas | Machine Learning
 
