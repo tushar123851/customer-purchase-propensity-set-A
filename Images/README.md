@@ -94,6 +94,9 @@ These plots show the data condition **after handling missing values**.
 ### age (after Filling)
 ![age Missing after](after_filling_univariate_analtysis/age.png)
 
+--------------------------------
+
+
 ## 🔹 Bivariate Analysis (Before Filling)
 
 📂 Folder: before_filling_bivariate_analysis
@@ -132,6 +135,8 @@ Bivariate analysis shows **relationships between two variables**.
 ### annual_income vs price
 ![annual_income vs price](before_filling_bivariate_analysis/annual_income_price.png)
 
+--------------------------------
+
 ## 🔹 Bivariate Analysis (After Filling)
 
 📂 Folder: bivariate_analysis_after_filling
@@ -157,6 +162,21 @@ Category vs numerical plots
 --------------------------------
 
 ## 🖼️ Graphs
+
+multivariate analysis shows **relationships between two and more than variables**.
+
+
+### Heatmap
+![Heatmap](before_filling_multivariate_analysis/heatmap.png)
+
+### annual_income vs purchased vs age
+![annual_income vs purchased vs age](before_filling_multivariate_analysis/age_income_purchased.png)
+
+### price vs category vs purchased
+![price vs category vs purchased](before_filling_multivariate_analysis/price_category_purchassed.png)
+
+--------------------------------
+
 
 ## 🔹 Multivariate Analysis (Before Filling)
 
