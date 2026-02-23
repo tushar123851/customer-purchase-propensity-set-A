@@ -163,17 +163,6 @@ Category vs numerical plots
 
 ## 🖼️ Graphs
 
-multivariate analysis shows **relationships between two and more than variables**.
-
-
-### Heatmap
-![Heatmap](before_filling_multivariate_analysis/heatmap.png)
-
-### annual_income vs purchased vs age
-![annual_income vs purchased vs age](before_filling_multivariate_analysis/age_income_purchased.png)
-
-### price vs category vs purchased
-![price vs category vs purchased](before_filling_multivariate_analysis/price_category_purchassed.png)
 
 --------------------------------
 
@@ -204,6 +193,19 @@ Multi-feature plots
 
 ## 🖼️ Graphs
 
+multivariate analysis shows **relationships between two and more than variables**.
+
+
+### Heatmap
+![Heatmap](before_filling_multivariate_analysis/heatmap.png)
+
+### annual_income vs purchased vs age
+![annual_income vs purchased vs age](before_filling_multivariate_analysis/age_income_purchased.png)
+
+### price vs category vs purchased
+![price vs category vs purchased](before_filling_multivariate_analysis/price_category_purchassed.png)
+
+
 --------------------------------
 
 ## 🔹 Multivariate Analysis (After Filling)
@@ -230,6 +232,12 @@ Feature interaction plots
 
 --------------------------------
 ## 🖼️ Graphs
+
+multivariate analysis shows **relationships between two and more than variables**.
+
+
+### Heatmap
+![Heatmap](multivariate analysis_after_filling/heatmap.png)
 
 --------------------------------
 
