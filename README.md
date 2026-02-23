@@ -200,6 +200,13 @@ Log transformation for skewed numerical features
 
 -----------------
 
+## 📊 Data Profiling Report
+
+📄 **Download Profiling PDF**  
+👉 [Click here to download](https://raw.githubusercontent.com/tushar123851/Holistic-Data-Preparer-Final-Project-/main/profiling_report/profiling_report.pdf)
+
+-----------------
+
 ## 🛠️ Tech Stack
 
 | Category | Tools |
