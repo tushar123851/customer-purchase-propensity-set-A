@@ -120,6 +120,18 @@ Group comparisons
 
 ## 🖼️ Graphs
 
+Bivariate analysis shows **relationships between two variables**.
+
+
+### age vs ratings
+![age vs ratings](before_filling_bivariate_analysis/age_rating.png)
+
+### annual_income vs purchased
+![annual_income vs purchased](before_filling_bivariate_analysis/annnual_income_purchased.png)
+
+### annual_income vs price
+![annual_income vs price](before_filling_bivariate_analysis/annual_income_price.png)
+
 ## 🔹 Bivariate Analysis (After Filling)
 
 📂 Folder: bivariate_analysis_after_filling
