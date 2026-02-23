@@ -218,11 +218,11 @@ Log transformation for skewed numerical features
 
 📦 Download Full Project (ZIP):
 
-https://github.com/tushar123851/customer-purchase-propensity-set-A/archive/refs/heads/main.zip
+👉 [https://github.com/tushar123851/customer-purchase-propensity-set-A/archive/refs/heads/main.zip]
 
 📂 View Repository:
 
-https://github.com/tushar123851/customer-purchase-propensity-set-A
+👉 [https://github.com/tushar123851/customer-purchase-propensity-set-A]
 
 -----------------
 
