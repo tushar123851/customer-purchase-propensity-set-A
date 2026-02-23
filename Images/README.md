@@ -38,16 +38,16 @@ Boxplots
 These plots show the data condition **before handling missing values**.
 
 ### annual_income (Before Filling)
-![annual_income Missing Before](before_filling_univariate_analysis/age_before_filling.png)
+![annual_income Missing Before](Before_filling_univariate_analysis/Screenshot 2026-02-22 101948.png)
 
-### Income (Before Filling)
-![Income Missing Before](before_filling/income_missing_before.png)
+### loyalty_score (Before Filling)
+![loyalty_score Missing Before](before_filling/income_missing_before.png)
 
-### Loan amount (Before Filling)
-![Loan amount Missing Before](before_filling/before_filling_loanamount.png)
+### price (Before Filling)
+![price Missing Before](before_filling/before_filling_loanamount.png)
 
-### creedit score (Before Filling)
-![creedit score Missing Before](before_filling/creditscore_before_filling.png)
+### rating (Before Filling)
+![rating Missing Before](before_filling/creditscore_before_filling.png)
 ---
 
 ## 🔹 Univariate Analysis (After Filling Missing Values)
