@@ -236,8 +236,7 @@ Feature interaction plots
 multivariate analysis shows **relationships between two and more than variables**.
 
 ### Heatmap(No outliers)
-![Heatmap(No outliers)](multivariate analysis_after_filling/heatmap_after.png)
-
+![Heatmap(No outliers)](multivariate_analysis_after_filling/heatmap_no_outliers.png)
 --------------------------------
 
 ## ✅ Key Insights from Visual Analysis
