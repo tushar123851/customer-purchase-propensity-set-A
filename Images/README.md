@@ -77,6 +77,21 @@ Boxplots
 
 ## 🖼️ Graphs
 
+These plots show the data condition **after handling missing values**.
+
+### annual_income (after Filling)
+![annual_income Missing after](after_filling_univariate_analtysis/annual_income.png)
+
+### loyalty_score (after Filling)
+![loyalty_score Missing after](after_filling_univariate_analtysis/loyalty_score.png)
+
+### price (after Filling)
+![price Missing after](after_filling_univariate_analysis/price.png)
+
+### rating (after Filling)
+![rating Missing after](after_filling_univariate_analtysis/rating.png)
+
+
 ## 🔹 Bivariate Analysis (Before Filling)
 
 📂 Folder: before_filling_bivariate_analysis
