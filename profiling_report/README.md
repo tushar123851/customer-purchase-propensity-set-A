@@ -1,1 +1,3 @@
-## This files contains profiling reports for data visulization
+# Profiling Report
+
+This folder contains PDF profiling reports for the project.
