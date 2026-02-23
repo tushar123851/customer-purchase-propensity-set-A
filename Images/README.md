@@ -237,7 +237,7 @@ multivariate analysis shows **relationships between two and more than variables*
 
 
 ### Heatmap
-![Heatmap](multivariate analysis_after_filling/heatmap.png)
+![Heatmap](multivariate analysis_after_filling/heatmap_after.png)
 
 --------------------------------
 
