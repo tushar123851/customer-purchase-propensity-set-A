@@ -1,1 +1,1 @@
-This files contains all the bivariate analysis images and graphs
+## This files contains all the bivariate analysis images and graphs
