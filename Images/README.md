@@ -86,11 +86,13 @@ These plots show the data condition **after handling missing values**.
 ![loyalty_score Missing after](after_filling_univariate_analtysis/loyalty_score.png)
 
 ### price (after Filling)
-![price Missing after](after_filling_univariate_analysis/price.png)
+![price Missing after](after_filling_univariate_analtysis/price.png)
 
 ### rating (after Filling)
 ![rating Missing after](after_filling_univariate_analtysis/rating.png)
 
+### age (after Filling)
+![age Missing after](after_filling_univariate_analtysis/age.png)
 
 ## 🔹 Bivariate Analysis (Before Filling)
 
